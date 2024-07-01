@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @JABethea
-- 👀 I'm an A+ Certified IT Professional and I am interested in Networking and Systems Administration 
-- 🌱 I’m currently learning Networking and in progress on my Network+ Certification. 
-- 💞️ I’m looking to collaborate on common Netwokring & IT problem solving in Virtualized Windows & Linux environments
-- 📫 Reach me via email at jordan.a.bethea@gmail.com
+<h1>Hi, I'm Jordan!, <a href="https://www.linkedin.com/in/jordan-bethea/">IT Professional</a>
 
-<!---
-JABethea/JABethea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Networking Projects:</h2>
+
+- <b>Active Directory Home Lab (AD DS LAB)</b>
+  - [Active Directory Home Lab](https://github.com/LABURL)
+
+
+<h2>📄 Certifications</h2>
+
+- [CompTIA A+ Certification](https://www.credly.com/badges/631df5f9-7b16-4d32-9e51-7e9250174e4f/linked_in?t=sbsn3o)
+- <img width="794" alt="CompTIA A+ Certification" src="https://github.com/JABethea/JABethea/assets/68124261/37c59094-87b1-482b-a1e0-6ae73dccb591">
+
+
+
+<h2> 🔗 Connect with me:</h2>
+
+[<img align="left" alt="Jordan-Bethea | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/jordan-bethea/
+
+<!--
+**jabethea/JABethea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
