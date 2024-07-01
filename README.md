@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JABethea
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python (especially Scikit Learn, Numpy, Pandas and Matplot Lib)
-- 💞️ I’m looking to collaborate on Python and SQL (especially IBM Db2) projects that are relevant to analytics
+- 👀 I'm an A+ Certified IT Professional and I am interested in Networking and Systems Administration 
+- 🌱 I’m currently learning Networking and in progress on my Network+ Certification. 
+- 💞️ I’m looking to collaborate on common Netwokring & IT problem solving in Virtualized Windows & Linux environments
 - 📫 Reach me via email at jordan.a.bethea@gmail.com
 
 <!---
