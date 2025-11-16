@@ -10,7 +10,9 @@
 
 - [CompTIA A+ Certification](https://www.credly.com/badges/631df5f9-7b16-4d32-9e51-7e9250174e4f/linked_in?t=sbsn3o)
 - <img width="794" alt="CompTIA A+ Certification" src="https://github.com/JABethea/JABethea/assets/68124261/37c59094-87b1-482b-a1e0-6ae73dccb591">
-
+- [CompTIA Network+ ce certificate (1).pdf](https://github.com/user-attachments/files/23569674/CompTIA.Network%2B.ce.certificate.1.pdf)
+- 
+- [CompTIA Security+ ce certificate (1).pdf](https://github.com/user-attachments/files/23569677/CompTIA.Security%2B.ce.certificate.1.pdf)
 
 
 <h2> 🔗 Connect with me:</h2>
