@@ -3,7 +3,7 @@
 <h2>👨‍💻💻📡 Networking Projects:</h2>
 
 - <b>Active Directory Home Lab (AD DS LAB)</b>
- [ - [Active Directory Home Lab](https://github.com/LABURL)](https://github.com/JABethea/ActiveDirectoryLab)
+https://github.com/JABethea/ActiveDirectoryLab
 
 <h2>👾💻🔒 Cybersecurity Projects:</h2>
 
