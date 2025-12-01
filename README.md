@@ -6,7 +6,7 @@
 https://github.com/JABethea/ActiveDirectoryLab
 
 <h2>👾💻🔒 Cybersecurity Projects:</h2>
-- <b>TryHackMe SOC Analyst 1 Certification Path, Complete with Labs</b>
+- <b>TryHackMe SOC Analyst 1 Certification, Complete with Labs</b>
 https://github.com/JABethea/TryHackMe-SOC-Analyst-1
 
 <h2>📄✔️🎓 Certifications</h2>
