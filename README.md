@@ -6,9 +6,10 @@
 https://github.com/JABethea/ActiveDirectoryLab
 
 <h2>👾💻🔒 Cybersecurity Projects:</h2>
+- <b>Azure Honeypot Using Sentinel</b>
+https://github.com/JABethea/Azure-Honeypot
 - <b>TryHackMe SOC Analyst 1 Certification, Complete with Labs</b>
 https://github.com/JABethea/TryHackMe-SOC-Analyst-1
-
 <h2>📄✔️🎓 Certifications</h2>
 
 - [CompTIA A+ Certification](https://www.credly.com/badges/631df5f9-7b16-4d32-9e51-7e9250174e4f/linked_in?t=sbsn3o)
