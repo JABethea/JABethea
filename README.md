@@ -12,14 +12,10 @@ https://github.com/JABethea/TryHackMe-SOC-Analyst-1
 <h2>📄✔️🎓 Certifications</h2>
 
 - [CompTIA A+ Certification](https://www.credly.com/badges/631df5f9-7b16-4d32-9e51-7e9250174e4f/linked_in?t=sbsn3o)
- <img width="794" alt="CompTIA A+ Certification" src="https://github.com/JABethea/JABethea/assets/68124261/37c59094-87b1-482b-a1e0-6ae73dccb591">
 
 - [CompTIA Network+ ce certificate (1).pdf](https://github.com/user-attachments/files/23569674/CompTIA.Network%2B.ce.certificate.1.pdf)
- <img width="1099" height="847" alt="image" src="https://github.com/user-attachments/assets/1a807963-8be4-4668-95d7-c242d4f708ce" />
 
 - [CompTIA Security+ ce certificate (1).pdf](https://github.com/user-attachments/files/23569677/CompTIA.Security%2B.ce.certificate.1.pdf)
- <img width="1383" height="1074" alt="image" src="https://github.com/user-attachments/assets/4f30243e-ec4e-4d17-9fbf-ead6188038ea" />
-
 
 <h2> 🔗 Connect with me:</h2>
 
