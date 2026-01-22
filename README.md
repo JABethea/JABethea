@@ -9,8 +9,9 @@ https://github.com/JABethea/ActiveDirectoryLab
 <b>Azure Honeypot Using Sentinel</b>  
 https://github.com/JABethea/Azure-Honeypot  
 
-<b>Nessus Vulnerability Scanner & Remediation</b>
-https://github.com/JABethea/Nessus-Vulnerability-Management/blob/main/README.md
+
+<b>Nessus Vulnerability Scanner & Remediation</b>  
+https://github.com/JABethea/Nessus-Vulnerability-Management/blob/main/README.md  
     
 <b>TryHackMe SOC Analyst 1 Certification, Complete with Labs</b>  
 https://github.com/JABethea/TryHackMe-SOC-Analyst-1
